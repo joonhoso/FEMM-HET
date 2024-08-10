@@ -1,4 +1,9 @@
+%%
 %% Draw_HEPS100_MagnetCircuit.m
+%% Draw_HEPS100_MagnetCircuit.m
+%% Draw_HEPS100_MagnetCircuit.m
+%% Draw_HEPS100_MagnetCircuit.m
+ 
 clear; clc; close all;
 
 %% 1. Base Core Pure Ion, @rz-domain
